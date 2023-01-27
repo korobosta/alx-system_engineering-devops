@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # Write a Bash script that displays:
-# script that gives you information about the holbertonschool file.
+# script that gives you information about the school file.
 
-i="holbertonschool"
+i="school"
 if [ -e "$i" ]
 then
     echo "$i file exists"
